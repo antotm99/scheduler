@@ -5,9 +5,9 @@ The user can also edit or delete an appointment and see the available spots on t
 
 ## Screenshots
 
-!["Screenshot of Main page View"].(https://raw.githubusercontent.com/antotm99/scheduler/master/docs/Main.png)
-!["Screenshot of Adding a New Appointment"].(https://raw.githubusercontent.com/antotm99/scheduler/master/docs/create_appointment.png)
-!["Screenshot of a Different Day"].(https://raw.githubusercontent.com/antotm99/scheduler/master/docs/different_day.png)
+!["Screenshot of Main page View"](https://raw.githubusercontent.com/antotm99/scheduler/master/docs/Main.png)
+!["Screenshot of Adding a New Appointment"](https://raw.githubusercontent.com/antotm99/scheduler/master/docs/create_appointment.png)
+!["Screenshot of a Different Day"](https://raw.githubusercontent.com/antotm99/scheduler/master/docs/different_day.png)
 
 ## Setup
 

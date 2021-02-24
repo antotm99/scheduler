@@ -31,16 +31,17 @@ npm test
 npm run storybook
 ```
 ## Dependencies
-  Axios
-  Classnames
-  Normalize.css
-  React
-  React Dom
-  React Scripts
-  Babel
-  Babel Loader
-  Storybook
-  Jest
-  Node Sass
-  Prop-types
-  React Test Renderer
+Markup:
+  * Axios
+  * Classnames
+  * Normalize.css
+  * React
+  * React Dom
+  * React Scripts
+  * Babel
+  * Babel Loader
+  * Storybook
+  * Jest
+  * Node Sass
+  * Prop-types
+  * React Test Renderer

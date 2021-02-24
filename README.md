@@ -1,4 +1,7 @@
 # Interview Scheduler
+Interview Scheduler lets a user book an interview with an interviewer of their choice.
+
+The user can also edit or delete an appointment and see the available spots on the left side of the website.
 
 ## Setup
 
@@ -22,16 +25,16 @@ npm test
 npm run storybook
 ```
 ## Dependencies
-Axios
-Classnames
-Normalize.css
-React
-React Dom
-React Scripts
-Babel
-Babel Loader
-Storybook
-Jest
-Node Sass
-Prop-types
-React Test Renderer
+  Axios
+  Classnames
+  Normalize.css
+  React
+  React Dom
+  React Scripts
+  Babel
+  Babel Loader
+  Storybook
+  Jest
+  Node Sass
+  Prop-types
+  React Test Renderer

@@ -31,7 +31,6 @@ npm test
 npm run storybook
 ```
 ## Dependencies
-Markup:
   * Axios
   * Classnames
   * Normalize.css
